@@ -1,1 +1,2 @@
-# 7dd30d2e-f39d-11ea-adc1-0242ac120002
+python3 ./task_1.py
+python3 ./task_2.py
